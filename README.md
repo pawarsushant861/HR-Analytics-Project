@@ -1,6 +1,5 @@
-SQL ,Python , Power BI , Tableau , Excel
 # 📊 HR Analytics Project (End-to-End Data Analytics)
-
+SQL ,Python , Power BI , Tableau , Excel
 ## 🔹 Project Overview
 
 This project analyzes employee data to understand attrition trends, workforce distribution, and key HR metrics. It demonstrates an end-to-end data analytics workflow using SQL, Excel, Power BI, and Tableau.
