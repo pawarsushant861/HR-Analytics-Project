@@ -1,3 +1,4 @@
+SQL ,Python , Power BI , Tableau , Excel
 # 📊 HR Analytics Project (End-to-End Data Analytics)
 
 ## 🔹 Project Overview
